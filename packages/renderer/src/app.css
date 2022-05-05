@@ -1,0 +1,11 @@
+.app {
+  background-color: rgb(16, 33, 42);
+  display: flex;
+  flex-direction: row;
+}
+button {
+  font-size: calc(10px +2vim);
+}
+.ͼ2 .cm-activeLine {
+  background: rgb(22, 50, 65);
+}
