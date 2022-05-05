@@ -1,4 +1,4 @@
-# ChatsApp
+# MD Mine
 
 <img src="./buildResources/icon.png" width="20%" alt="logo"/>
 
